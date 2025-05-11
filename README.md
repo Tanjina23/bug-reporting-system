@@ -25,10 +25,10 @@ A simple and functional Bug Reporting System built using **PHP**, **MySQL**, **B
 ## 🎯 Project Purpose
 This project was built as part of my preparation for Software Quality Assurance (SQA) or Technical Support Engineer roles. It demonstrates:
 
--Understanding of issue tracking processes
--Backend and database integration
--Use of a responsive frontend
--Bug lifecycle awareness
+- Understanding of issue tracking processes
+- Backend and database integration
+- Use of a responsive frontend
+- Bug lifecycle awareness
 
 ## 📷 Screenshots
 <img width="894" alt="Bug-2" src="https://github.com/user-attachments/assets/23a87fe0-7579-458b-9a85-a6d0652d1361" />
